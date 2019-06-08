@@ -9,4 +9,4 @@ This is a template of a Swift playground book that uses [swift-log](https://gith
 
 ![](photo.png)
 
-This repository contains the source code of [swift-log](https://github.com/apple/swift-log), which is licensed under Apache-2.0.
+[swift-log](https://github.com/apple/swift-log) is licensed under Apache-2.0.
