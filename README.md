@@ -1,5 +1,7 @@
 # swift-log-playgroundbook
 
+**The new example is available [here](https://github.com/kkk669/LoggingPlayground).**
+
 [![Swift](https://img.shields.io/badge/Swift-5.0-orange.svg)](https://developer.apple.com/swift/)
 [![Swift Playgrounds](https://img.shields.io/badge/Swift%20Playgrounds-3.0-orange.svg)](https://itunes.apple.com/jp/app/swift-playgrounds/id908519492)
 ![Platform](https://img.shields.io/badge/platform-ios-lightgrey.svg)
